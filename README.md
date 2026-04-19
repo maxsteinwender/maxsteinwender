@@ -1,36 +1,41 @@
-<p align="center">
-  <img src="./assets/hero.png" alt="Max Steinwender" width="100%" />
-</p>
+<h1 align="left">Hey, I'm Max 👋</h1>
 
-<h1 align="center">Hey, I'm Max 👋</h1>
-
-<p align="center">
-  <b>Designing interfaces for finance. Shipping products on the side.</b>
-</p>
-
-<p align="center">
-  <a href="https://maxsteinwender.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/maxsteinwender">LinkedIn</a> ·
-  <a href="mailto:hello@maxsteinwender.com">Email</a>
-</p>
-
----
-
-### 👨‍💻 About
-
-I'm a Product Designer at **applied by zeb**, designing interfaces for financial services by day. On the side, I run a freelance practice (web, branding, social) and ship small products and tools. Based in Graz, Austria.
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    ███╗   ███╗    ██╗    ███████╗████████╗                       ║
+║    ████╗ ████║   ██╔╝    ██╔════╝╚══██╔══╝                       ║
+║    ██╔████╔██║  ██╔╝     ███████╗   ██║                          ║
+║    ██║╚██╔╝██║ ██╔╝      ╚════██║   ██║                          ║
+║    ██║ ╚═╝ ██║██╔╝   ██╗ ███████║   ██║██╗                       ║
+║    ╚═╝     ╚═╝╚═╝    ╚═╝ ╚══════╝   ╚═╝╚═╝                       ║
+║                                                                  ║
+║    > Designing interfaces for finance.                           ║
+║    > Shipping products on the side.                              ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-### 🧰 Currently Building
+### About
 
-- Building kamo.day – Daily Check-In Questions for Teams
-- Building my personal website <a href="https://maxsteinwender.com">(maxsteinwender.com)</a> with Framer
-- Building a personal design system from a Figma Kit
+I'm a Product Designer at **applied by zeb**, designing interfaces for financial services by day. On the side, I run a small freelance studio (web, branding, social) and ship ideas I think are worth building. Based in Graz, Austria.
+
+
+[Portfolio](https://maxsteinwender.com) · [LinkedIn](https://www.linkedin.com/in/maxsteinwender) · [Email](mailto:hello@maxsteinwender.com)
 
 ---
 
-### 🛠️ Stack
+### Currently Building
+
+- **[kamo.day](https://kamo.day)** — daily check-in questions for teams
+- **[maxsteinwender.com](https://maxsteinwender.com)** — personal website in Framer
+- **Personal Design System** — built from a Figma Kit
+
+---
+
+### Stack
 
 **Design** &nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
