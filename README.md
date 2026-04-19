@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/hero.png" alt="Max Steinwender" width="100%" />
+</p>
+
 <h1 align="center">Hey, I'm Max 👋</h1>
 
 <p align="center">
