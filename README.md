@@ -30,6 +30,7 @@ I'm a Product Designer at **applied by zeb**, designing interfaces for financial
 ### Currently Building
 
 - **[kamo.day](https://kamo.day)** — daily check-in questions for teams
+- **[Copy Paste Club](https://github.com/Copy-Paste-Club)** — shipping projects with friends
 - **[maxsteinwender.com](https://maxsteinwender.com)** — personal website in Framer
 - **Personal Design System** — built from a Figma Kit
 
